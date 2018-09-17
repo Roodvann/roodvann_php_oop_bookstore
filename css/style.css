@@ -1,0 +1,12 @@
+table {
+    background: #84ed86; /* Цвет фона таблицы */
+    color: #761a9b; /* Цвет текста */
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid grey;
+    width: 500px;
+}
+th, td {
+    border: 1px solid #761a9b;
+    text-align: center;
+}
